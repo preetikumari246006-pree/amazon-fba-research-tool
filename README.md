@@ -50,7 +50,7 @@ Our unique scoring algorithm (0-100):
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/preetikumari246006-pree/amazon-fba-research-tool.git
+git clone https://github.com/Oxpreeti/amazon-fba-research-tool.git
 cd amazon-fba-research-tool
 ```
 
